@@ -1,0 +1,15 @@
+{
+  "name": "Element",
+  "version": "1.0.0",
+  "description": "Fyp game server",
+  "author": {
+    "name": "Marcus Man",
+    "email": "kaheiman@yahoo.com.hk"
+  },
+  "main": "socket.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http": "0.0.0",
+    "socket.io": "^1.7.3"
+  }
+}
