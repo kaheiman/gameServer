@@ -8,6 +8,7 @@
   },
   "main": "socket.js",
   "dependencies": {
+    "array.prototype.findindex": "^2.0.1",
     "express": "^4.14.1",
     "http": "0.0.0",
     "socket.io": "^1.7.3"
